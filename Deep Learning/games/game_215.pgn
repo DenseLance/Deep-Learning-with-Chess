@@ -1,0 +1,10 @@
+[Event "Solving Chess Using Deep Q-Learning"]
+[Site "Python"]
+[Date "2022-02-10"]
+[Round "215"]
+[White "Magnum Carlos"]
+[Black "Magnesium Cars"]
+[Result "0-1"]
+
+1. c3 d5 2. Na3 a6 3. Nb1 c6 4. e4 f6 5. Bd3 Qc7 6. h4 Qf4 7. exd5 Bh3 8. b4 Qf3 9. b5 Kd8 10. Be4 Qf4 11. bxa6 Be6 12. Na3 Qxh4 13. Bf5 g5 14. c4 Qxh1 15. Be4 Kd7 16. Qa4 Bg4 17. Bc2 Qxg1# 0-1
+

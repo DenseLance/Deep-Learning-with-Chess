@@ -1,0 +1,10 @@
+[Event "Solving Chess Using Deep Q-Learning"]
+[Site "Python"]
+[Date "2022-02-09"]
+[Round "390"]
+[White "Magnum Carlos"]
+[Black "Magnesium Cars"]
+[Result "1-0"]
+
+1. a3 c6 2. Nc3 f6 3. g4 Nh6 4. Nf3 b6 5. h3 Na6 6. Ne4 Kf7 7. Nd6+ exd6 8. Rb1 Nf5 9. b3 Ne3 10. fxe3 g6 11. c4 Ke8 12. Qc2 Be7 13. Nh4 b5 14. Ng2 Nc5 15. Qxg6+ Kf8 16. Qf5 h6 17. cxb5 d5 18. Nh4 Qe8 19. Rg1 Ne6 20. Bb2 Qg6 21. Rc1 Ng7 22. Qe5 Ba6 23. Rh1 Bxb5 24. Qd6 d4 25. Ba1 Rg8 26. Qf4 Qxg4 27. Qg3 Bxa3 28. Qg1 Bxc1 29. Bg2 Rd8 30. Qh2 Qf3 31. exf3 Bc4 32. Bb2 Be6 33. Nf5 a6 34. Qc7 Bc4 35. b4 Ne6 36. Bc3 Bd3 37. Nxh6 d5 38. Qc8 Bb5 39. Ba1 Ng7 40. Nf5 Ba4 41. Qe6 Bb5 42. Qe5 fxe5 43. Kd1 Bxd2 44. Nh4 Ne8 45. Rg1 a5 46. Kxd2 Ra8 47. Rb1 Ng7 48. Bh1 Ra6 49. Nf5 Bc4 50. Ng3 Bb3 51. Rd1 Ne6 52. Ke2 Nd8 53. Rg1 d3+ 54. Kd2 Rxg3 55. Kxd3 Rb6 56. Rd1 Rb7 57. bxa5 Rg1 58. Re1 Ke7 59. a6 Rxh1 60. Rf1 Rb5 61. e4 Kf8 62. Rb1 Ke7 63. Rxh1 Bd1 64. Re1 Rb4 65. Rf1 dxe4+ 66. Kd2 Nf7 67. Kxd1 Nh8 68. Ke1 Kd8 69. Bb2 Rb6 70. Rf2 Kd7 71. Bxe5 Rb7 72. Rh2 Nf7 73. a7 Kc8 74. Ra2 Rb2 75. a8=Q+ Rb8 76. Rd2 Nd6 77. Bg3 Ne8 78. Kf1 Nf6 79. Rh2 Nh7 80. Qa7 Rb1+ 81. Kf2 Nf8 82. Qa4 exf3 83. Qd4 Rb2+ 84. Ke3 Rb3+ 85. Qc3 Rb5 86. Rh1 Rf5 87. Rc1 c5 88. Rb1 Rg5 89. Re1 Ne6 90. Rd1 Rh5 91. Qd2 c4 92. Bh2 Ng7 93. Qd7# 1-0
+

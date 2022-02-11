@@ -1,0 +1,10 @@
+[Event "Solving Chess Using Deep Q-Learning"]
+[Site "Python"]
+[Date "2022-02-10"]
+[Round "715"]
+[White "Magnum Carlos"]
+[Black "Magnesium Cars"]
+[Result "1/2-1/2"]
+
+1. a4 Na6 2. f3 f6 3. Nc3 Nc5 4. b4 Ne6 5. e4 g5 6. Nh3 Nc5 7. Rb1 Ne6 8. Nb5 b6 9. c4 Ng7 10. Nf4 gxf4 11. g3 h5 12. Nd6+ cxd6 13. Ra1 a6 14. Bb2 b5 15. Qb3 Qa5 16. Qd1 bxc4 17. Rb1 Kf7 18. Bg2 Qc5 19. gxf4 Rb8 20. Rc1 a5 21. Ba1 Qd5 22. bxa5 Qxe4+ 23. Kf1 Ne6 24. h3 h4 25. Bb2 Qg6 26. Rb1 Rb7 27. Rg1 Rb6 28. Qe2 Nd8 29. Ra1 Qg3 30. Rb1 Nb7 31. Rc1 Rc6 32. Rd1 Qxf4 33. Bd4 Ra6 34. Re1 Bg7 35. Rd1 Rxa5 36. Rh1 Nd8 37. Re1 Bb7 38. Rd1 Qg3 39. Qxe7+ Kxe7 40. Bb6 Qg6 41. f4 Rxa4 42. Bf3 Nf7 43. Ra1 Bh6 44. Rb1 Nd8 45. Rc1 Bg7 46. Bd5 Ba8 47. Rd1 Ra1 48. Re1+ Rxe1+ 49. Kf2 Bc6 50. Bxc6 Rf1+ 51. Ke2 Qg5 52. Kxf1 Qh5 53. Kg1 Nb7 54. Be4 Qf7 55. Bd3 Qf8 56. Kh2 Nd8 57. Rg1 Ke8 58. Kh1 Qe7 59. Rf1 Bh6 60. Rg1 Qe6 61. Rf1 Ke7 62. Rb1 cxd3 63. Rc1 Qe3 64. Rc2 Qg3 65. Bxd8+ Kf7 66. Rb2 Qe3 67. Ra2 Qf3+ 68. Kh2 Qh1+ 69. Kxh1 Bg7 70. Ra7 Nh6 71. Rc7 Ng4 72. Rxd7+ Kg6 73. Rxd6 Nh2 74. Rxd3 Nf3 75. Rb3 Kh5 76. Rxf3 f5 77. Rf1 Kh6 78. Rg1 Be5 79. d4 Rf8 80. Rf1 Kg6 81. Rd1 Bxf4 82. d5 Bh2 83. Re1 Bc7 84. Re8 Rxe8 85. Kg2 Kh7 86. d6 Kg7 87. Kf3 Bxd8 88. Kf4 Kh7 89. d7 Ba5 90. Kg5 Re1 91. Kh5 Rc1 92. d8=B Be1 93. Kg5 Rc6 94. Ba5 Ra6 95. Kh5 Ra7 96. Kg5 f4 97. Kf5 f3 98. Ke4 Bf2 99. Bc3 Rd7 100. Kf4 Rd2 101. Kxf3 Kg8 102. Kf4 Rd1 103. Kf3 Rh1 104. Ke4 Be3 105. Kf3 Rg1 106. Bb4 Bf2 107. Bd6 Rc1 108. Bb8 Rd1 109. Kxf2 Kh8 110. Ba7 Rd5 111. Ke3 Kg7 112. Kf3 Kh7 113. Bg1 Rf5+ 114. Ke2 Rg5 115. Be3 Rh5 116. Kd1 Rf5 117. Ke1 Rg5 118. Ba7 Rh5 119. Ke2 Rg5 120. Be3 Kg6 121. Kf3 Rh5 122. Ke4 Rg5 123. Bd4 Kh6 124. Bf2 Kg6 125. Kf4 Rd5 126. Kg4 Kf7 127. Be1 Rc5 128. Bg3 Kf8 129. Kf4 Rd5 130. Kg4 Rd4+ 131. Kh5 Rb4 132. Bb8 Kg7 133. Ba7 Rg4 134. Bb8 Ra4 135. Bg3 Kf7 136. Kh6 Re4 137. Bxh4 Re1 138. Be7 Re4 139. Bb4 Re8 140. Kg5 Re2 141. Be1 Rf2 142. h4 Rh2 143. Kg4 Rg2+ 144. Kf4 Rf2+ 145. Bxf2 Kg8 146. Kg4 Kh8 147. Kf4 Kg8 148. Kg4 Kh7 149. Ba7 Kg8 1/2-1/2
+

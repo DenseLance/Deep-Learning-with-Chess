@@ -1,0 +1,10 @@
+[Event "Solving Chess Using Deep Q-Learning"]
+[Site "Python"]
+[Date "2022-02-10"]
+[Round "345"]
+[White "Magnum Carlos"]
+[Black "Magnesium Cars"]
+[Result "1/2-1/2"]
+
+1. Nc3 g5 2. b3 d6 3. d4 b5 4. Be3 Nd7 5. Nd5 c5 6. Nh3 Qb6 7. a4 h5 8. Ra3 Ndf6 9. Qb1 Nh7 10. axb5 Bxh3 11. Nxb6 d5 12. Nc4 Bh6 13. Ra6 Ngf6 14. Rxf6 Kf8 15. Rxh6 dxc4 16. Qa2 e6 17. b4 Bxg2 18. dxc5 Rb8 19. Qa5 Rb7 20. Qb6 Nf6 21. Kd1 g4 22. Kc1 Bf3 23. Qxa7 Rxb5 24. Kd1 Nh7 25. Qb6 Nf6 26. Ke1 Rxb6 27. Rxf6 Rb5 28. Bf4 Ra5 29. Bg3 Ra1+ 30. Kd2 Be4 31. Bh3 Rd1+ 32. Kc3 Bg2 33. Rf5 Kg8 34. Rg1 Rb1 35. Rf4 Kh7 36. Kd4 Rf1 37. Rf5 Rxf2 38. Rf3 Rxe2 39. Rb3 Rf2 40. Rc1 Bd5 41. Bb8 Rd2+ 42. Ke3 Rf8 43. Rc3 Bg2 44. Re1 Rf2 45. Rb3 Bf1 46. Bg2 Rxg2 47. c6 g3 48. Rd3 Rg8 49. Ba7 c3 50. Rxf1 f5 51. b5 Rg1 52. Rxg1 Ra8 53. Rh1 g2 54. Rdd1 gxh1=B 55. Rd6 Rb8 56. Kd4 Kg7 57. Kc5 f4 58. Kb4 e5 59. Rh6 Rb6 60. Kxc3 Bd5 61. Rf6 Bg8 62. Bxb6 Kh7 63. Kd3 Bd5 64. c7 f3 65. c3 Kg8 66. c8=Q+ Kg7 67. Rf8 Bb3 68. Rh8 f2 69. Rh7+ Kf6 70. Qe6+ Kxe6 71. h3 Ba4 72. Rb7 Bd1 73. Kd2 f1=B 74. Rg7 Bfe2 75. Rg8 Bc4 76. Kxd1 Ba2 77. Rg7 e4 78. Rg4 Kf6 79. Rxe4 Bf7 80. Rh4 Bg8 81. Bg1 Ke7 82. Rg4 Kd6 83. Bd4 Bh7 84. Rg1 Bg6 85. Be5+ Kd7 86. Rg3 Bd3 87. Rg2 Bg6 88. Re2 h4 89. Kd2 Bf5 90. Bg7 Be4 91. c4 Bb1 92. Re8 Kc7 93. Rb8 Ba2 94. Kc3 Bb1 95. Bd4 Bg6 96. Bg7 Bf5 97. Rb7+ Kc8 98. Rf7 Bxh3 99. Kd3 Bd7 100. Rf1 h3 101. Rf5 Bc6 102. Rc5 Kd7 103. Kd4 Bd5 104. Kxd5 h2 105. b6 h1=Q+ 106. Kd4 Qh3 107. Rc8 Qd3+ 108. Kxd3 Kd6 109. Rc7 Ke6 110. Bf6 Kd6 111. Ke3 Ke6 112. Rg7 Kxf6 113. Rh7 Kg6 114. Kf4 Kf6 115. Rc7 Ke6 116. Rb7 Kf6 117. Rf7+ Kg6 118. Ke5 Kxf7 119. c5 Ke7 120. c6 Kf8 121. Ke6 Kg7 122. Ke7 Kg8 123. b7 Kh8 124. c7 Kg7 125. Kd7 Kf7 126. Kc8 Ke7 127. Kb8 Kf6 128. Ka7 Kg6 129. Ka6 Kh5 130. c8=N Kh4 131. Ne7 Kg4 132. Ng8 Kh3 133. Ka7 Kg3 134. Nh6 Kf2 135. b8=Q Kf1 136. Ng8 Ke2 137. Qe8+ Kf1 138. Kb7 Kg2 139. Nf6 Kh2 140. Qf7 Kh1 141. Qc4 Kg2 142. Nh7 Kg1 143. Qg8+ Kf1 144. Ka6 Ke2 145. Qg4+ Kd2 146. Ka5 Kc2 147. Qd4 Kb1 148. Qc4 Ka1 149. Qa2+ Kxa2 1/2-1/2
+

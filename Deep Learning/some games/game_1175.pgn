@@ -1,0 +1,10 @@
+[Event "Solving Chess Using Deep Q-Learning"]
+[Site "Python"]
+[Date "2022-02-09"]
+[Round "1175"]
+[White "Magnum Carlos"]
+[Black "Magnesium Cars"]
+[Result "1/2-1/2"]
+
+1. Nc3 Nc6 2. Na4 Nb8 3. Rb1 Nc6 4. Nh3 Nb4 5. Nf4 b5 6. Nc5 Rb8 7. b3 e6 8. Ne4 Nxc2+ 9. Qxc2 Ne7 10. Ng5 a6 11. Nh5 Ng8 12. Nxe6 d5 13. Nf6+ Nxf6 14. Qg6 Qd7 15. Ng5 Nh5 16. Qxa6 Nf6 17. h4 Qh3 18. Ra1 Ba3 19. Ne6 Qf3 20. Nxg7+ Kd7 21. Qxa3 Qh5 22. g4 Ng8 23. Qf8 Ne7 24. Ne8 Ng8 25. Qc5 Qf5 26. Qd4 Qh5 27. Ng7 Kd8 28. Qa7 Ne7 29. Ne8 Qg6 30. Qxb8 Qa6 31. Qa7 d4 32. b4 Ng8 33. h5 Ne7 34. Ng7 Ng8 35. a4 Qb7 36. Rb1 Ne7 37. Ne8 Ng8 38. Qb6 Qg2 39. axb5 Qc6 40. Bb2 Nf6 41. Ng7 Nd5 42. Ne8 Ne7 43. Bxd4 Ba6 44. Ng7 Rg8 45. Ne8 Ng6 46. Rb3 Ne7 47. Rb1 Qxe8 48. Be5 f5 49. Rc1 f4 50. Rd1 h6 51. Rc1 Nc6 52. Rg1 Ke7 53. Qxc7+ Ke6 54. Kd1 Rxg4 55. Rb1 Kd5 56. Rg2 Qd8 57. Bxf4 Rxf4 58. Rc1 Qe7 59. Rb1 Ne5 60. Rg4 Ng6 61. Qa5 Qf8 62. Rc1 Ne7 63. Rh4 Rf3 64. d3 Ng8 65. bxa6+ Ke6 66. Qa2+ Kf6 67. Qf7+ Ke5 68. Kd2 Ne7 69. Rh1 Ng8 70. Qd7 Ne7 71. Ra1 Qa8 72. Rb1 Qf8 73. Rc1 Qb8 74. Rd1 Ng8 75. Qd8 Rh3 76. Qd4+ Kf5 77. Kc3 Qe5 78. Rg1 Qxd4+ 79. Kxd4 Nf6 80. Rg4 Ne4 81. Re1 Ng5 82. Rd1 Ne6+ 83. Kc4 Ng7 84. Rb1 Ne8 85. Rc1 Ke5 86. d4+ Ke6 87. Kb5 Kf6 88. Re4 Ng7 89. Kc5 Ne8 90. Re6+ Kxe6 91. Rd1 Rh2 92. Kb6 Rh3 93. Kc5 Rf3 94. Kb6 Kd5 95. Re1 Rf4 96. Rb1 Ng7 97. Bh3 Ne8 98. Re1 Rf8 99. b5 Rf7 100. Rf1 Ng7 101. Rg1 Ne8 102. Rg2 Ng7 103. Bf5 Ne8 104. Bg4 Ng7 105. e3 Ne8 106. Be6+ Ke4 107. Ba2 Ra7 108. Rh2 Kd3 109. Kc6 Ng7 110. f3 Nf5 111. Rd2+ Kxe3 112. Bb1 Nh4 113. Bg6 Rb7 114. Be8 Kxf3 115. d5 Nf5 116. Re2 Ne3 117. d6 Rxb5 118. Rf2+ Kg3 119. Rg2+ Nxg2 120. Kxb5 Ne3 121. Kc5 Ng4 122. Kc4 Kg2 123. Kd4 Ne3 124. Kxe3 Kg3 125. Bg6 Kh3 126. Kf3 Kh2 127. Bf7 Kh3 128. Ba2 Kh4 129. Kf2 Kg4 130. Bf7 Kh4 131. Bg6 Kh3 132. Ke2 Kh2 133. Kf2 Kh1 134. Bf5 Kh2 135. Ke2 Kg2 136. Kd3 Kh2 137. Ke3 Kg1 138. Kf3 Kh1 139. Bg6 Kg1 140. Kg3 Kh1 141. Kg4 Kg2 142. Bh7 Kg1 143. Kh4 Kh1 144. Bf5 Kg1 145. Bb1 Kh1 146. a7 Kg1 147. Bd3 Kh1 148. Kg4 Kg1 149. Kh4 Kh1 150. Bb5 Kg1 1/2-1/2
+

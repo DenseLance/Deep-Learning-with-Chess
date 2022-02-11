@@ -1,0 +1,10 @@
+[Event "Solving Chess Using Deep Q-Learning"]
+[Site "Python"]
+[Date "2022-02-09"]
+[Round "210"]
+[White "Magnum Carlos"]
+[Black "Magnesium Cars"]
+[Result "1/2-1/2"]
+
+1. f4 a5 2. e4 e5 3. c4 Ra7 4. Ke2 b5 5. g3 c6 6. Nf3 Na6 7. b3 g6 8. cxb5 Qg5 9. d3 Nh6 10. Kd2 Qf6 11. b6 Be7 12. bxa7 Qxf4+ 13. Ke1 Bf8 14. Qd2 Rg8 15. Ba3 f6 16. Ke2 Kf7 17. Qe1 Nc7 18. Nc3 Qf5 19. Rc1 Ng4 20. Be7 Na8 21. Nb5 Kxe7 22. exf5 Rh8 23. h3 Nb6 24. Nc7 Ne3 25. a3 g5 26. g4 Nec4 27. Nxg5 Nb2 28. Ra1 Rg8 29. h4 Bg7 30. Nge6 c5 31. Qg3 h6 32. Qf4 N2c4 33. Qe4 dxe6 34. Qxc4 Re8 35. Ke3 Kd6 36. Qa4 c4 37. Nxe8+ Kc5 38. h5 Bh8 39. Ke4 Nxa4 40. Be2 c3 41. Rhg1 Kb5 42. Ng7 c2 43. Rgc1 exf5+ 44. gxf5 Nc5+ 45. Kf3 Na6 46. Kf2 e4 47. Rab1 Bb7 48. a8=Q Nb4 49. Bd1 exd3 50. Qd8 Nc6 51. Qg8 Ne7 52. Ke3 Ka6 53. Kd2 a4 54. Kc3 axb3 55. Qh7 cxb1=B 56. Qxh8 Ng8 57. a4 Ba8 58. Rc2 Ka5 59. Rc1 Ba2 60. Qxh6 Bd5 61. Ne8 Be6 62. Qg7 Bc4 63. Bg4 Ne7 64. Rd1 Ba6 65. Rxd3 Bb1 66. Qf8 Nc8 67. Rg3 Be4 68. Nc7 Bg2 69. Re3 Ba8 70. Nd5 B6b7 71. Kc4 Bxd5+ 72. Kd3 Ne7 73. Qg7 Be4+ 74. Ke2 Kxa4 75. Qg6 Beb7 76. Kd2 Bf3 77. Kc1 Be2 78. Re6 b2+ 79. Kb1 Bd3+ 80. Kxb2 Kb5 81. Bh3 Bae4 82. Re5+ fxe5 83. Qg5 Be2 84. Qg4 Kc5 85. Bg2 Ng6 86. Kb3 Bd1+ 87. Kc3 Bdc2 88. Qxg6 Bb3 89. Kxb3 Bb7 90. Kc3 Bc6 91. Kb2 Kd4 92. Be4 Bd7 93. Qg5 Ba4 94. Ba8 Bd7 95. Qg2 Kc4 96. Qh3 Kd4 97. Qd3+ Kxd3 98. Kb1 Bxf5 99. Bg2 Bh7 100. Bf3 Bg6 101. Bh1 Bh7 102. Ka1 Kc4 103. Bg2 Kb5 104. Bd5 Be4 105. Bg8 Bf3 106. Ba2 Ka5 107. Bf7 Bh1 108. Bg8 Bb7 109. Bd5 Kb5 110. Kb1 Ba6 111. Ka1 Kc5 112. Bh1 Bc4 113. Ba8 e4 114. Kb1 Bd3+ 115. Kb2 e3 116. Bf3 Bc2 117. Ka3 Kd6 118. h6 Kc5 119. Bg2 Bb3 120. Bf1 Kb6 121. Kb4 Bd5 122. Be2 Ba2 123. Bd1 Bf7 124. Bb3 Kb7 125. Bd5+ Ka7 126. Kc4 Bxd5+ 127. Kc5 Ba2 128. h7 Be6 129. Kc6 Bg4 130. h8=B Be6 131. Kc7 Bf7 132. Kd8 e2 133. Ba1 Bb3 134. Kd7 Kb7 135. Bb2 Bf7 136. Kd6 Ka6 137. Kc5 Ka7 138. Kd6 Ka8 139. Kc7 Ka7 140. Bf6 Bh5 141. Kd8 Bg4 142. Kc7 e1=Q 143. Bd4+ Ka8 144. Bb6 Bh3 145. Bd4 Qf1 146. Ba1 Qd3 147. Bh8 Qd4 148. Be5 Qc3+ 149. Bxc3 Bd7 150. Ba5 Bc8 151. Kxc8 1/2-1/2
+

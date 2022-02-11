@@ -1,0 +1,10 @@
+[Event "Solving Chess Using Deep Q-Learning"]
+[Site "Python"]
+[Date "2022-02-09"]
+[Round "1505"]
+[White "Magnum Carlos"]
+[Black "Magnesium Cars"]
+[Result "1/2-1/2"]
+
+1. Nc3 e5 2. Nf3 c6 3. Ne4 Qh4 4. Nxe5 Qxf2+ 5. Nxf2 g5 6. Nh3 Kd8 7. Nf4 Ba3 8. Nh5 Na6 9. Ng6 Nc7 10. Nxh8 c5 11. Nf6 h6 12. Nxf7+ Ke7 13. Nh7 Ne8 14. Nh8 d5 15. Nf8 Bxb2 16. Nf7 Ng7 17. Nh8 Nf6 18. Nh7 b5 19. Nf8 Nh7 20. Nxh7 Ne8 21. d3 d4 22. Nf8 h5 23. Nh7 Ng7 24. Bf4 Ne8 25. Bxg5+ Nf6 26. Ng6+ Kf7 27. Ne7 Ba6 28. Kd2 Ng4 29. Ng8 Ne5 30. Nf8 Rb8 31. a3 h4 32. Nh7 Ng6 33. Nf8 Kxf8 34. c4 h3 35. Ne7 Bxa3 36. Ng8 Ne7 37. Rg1 Nxg8 38. Bh4 Ne7 39. Bxe7+ Kg8 40. Rxa3 Rf8 41. e4 Rf4 42. Qe1 Rg4 43. Qd1 Bb7 44. Qc1 Bd5 45. Qd1 Be6 46. Qc1 Rh4 47. Qd1 Rh5 48. Qe1 Bc8 49. Bxc5 Rh6 50. Qd1 Rb6 51. Qe1 b4 52. Qf2 Bd7 53. Qf4 b3 54. Bd6 Bb5 55. c5 b2 56. Ra5 Kg7 57. Ra3 Rb8 58. Rh1 a6 59. Kd1 Rh8 60. Ke1 Bc6 61. Kd1 a5 62. Ke1 a4 63. Qg4+ Kh6 64. Kd1 Kh7 65. Qg5 b1=R+ 66. Kd2 Rc8 67. Rg1 Rf8 68. Rh1 Rc1 69. Qe5 Rd1+ 70. Ke2 Rf7 71. g4 Re1+ 72. Kxe1 Bb5 73. Kd1 Rf6 74. Ke1 Re6 75. Kd1 Rf6 76. Ke1 Rf3 77. Kd2 Bd7 78. Qe7+ Kh8 79. Ra1 Rf5 80. Rb1 Rf2+ 81. Be2 Rg2 82. Rb3 Rxh2 83. Rb7 Bc6 84. Rc1 Rg2 85. Bg3 Be8 86. Qd8 Rh2 87. Rd1 Rg2 88. Rg1 Rxg3 89. Rb2 h2 90. c6 Rh3 91. Bf1 Kh7 92. Qa5 Kh6 93. Rh1 Bg6 94. Qd5 Rg3 95. Rg1 h1=R 96. Rxh1+ Rh3 97. Rg1 Rg3 98. Rh1+ Kg7 99. Qb3 Bh5 100. Qc3 Kf7 101. Qxd4 Kf8 102. Rg1 Rh3 103. Kc2 Rg3 104. Be2 Rf3 105. Rh1 Be8 106. Rg1 Rg3 107. Qa7 Rh3 108. Kc3 Rh6 109. Rb4 Bxc6 110. Rh1 a3 111. Re1 a2 112. Rf1+ Kg8 113. Qa4 Rh7 114. Rd1 Kf8 115. Kd4 Rg7 116. Bf3 Rh7 117. Re1 Rg7 118. Rf1 Re7 119. Rb3 Rxe4+ 120. Kc3 a1=Q+ 121. Rxa1 Ke8 122. Rab1 Rxa4 123. R1b2 Kf7 124. Bg2 Ra5 125. Kc2 Rb5 126. Kd1 Rc5 127. Be4 Rd5 128. Rf2+ Ke8 129. g5 Re5 130. Rb7 Rf5 131. Rfb2 Rxg5 132. Rf2 Rh5 133. Re7+ Kxe7 134. Bf5 Kd8 135. Ke1 Rh6 136. Kf1 Bh1 137. Kg1 Ke8 138. Kf1 Rg6 139. Ke1 Rh6 140. Rf3 Rf6 141. Kf1 Rg6 142. Ke1 Rh6 143. Bh3 Re6+ 144. Bxe6 Kd8 145. Rf7 Ke8 146. Bg4 Kd8 147. Be2 Bc6 148. Kf1 Ke8 149. Kg1 Bf3 150. Rf4 Kd8 151. Kf1 Ke8 152. Kg1 Kd8 153. Kf1 Be4 154. Kg1 1/2-1/2
+

@@ -1,0 +1,10 @@
+[Event "Solving Chess Using Deep Q-Learning"]
+[Site "Python"]
+[Date "2022-02-09"]
+[Round "965"]
+[White "Magnum Carlos"]
+[Black "Magnesium Cars"]
+[Result "1/2-1/2"]
+
+1. Nf3 g6 2. Ng1 a5 3. d3 Nc6 4. Nd2 a4 5. Nh3 f6 6. Nf3 b5 7. Nfg5 Na5 8. b4 Nc6 9. Nf4 Nxb4 10. Nf7 Kxf7 11. Ba3 Nc6 12. Bb2 Ne5 13. g4 Nxg4 14. a3 Ne5 15. Bxe5 Ra7 16. Nh5 d6 17. Nxf6 Nh6 18. Ng8 d5 19. Nxe7 Nf5 20. Nxd5 Nh6 21. Nf6 Bf5 22. Nxh7 Ng8 23. Rb1 Ne7 24. c3 Rb7 25. Nxf8 Ng8 26. h4 c6 27. Qb3+ Ke8 28. Rb2 Ne7 29. Nh7 Qd6 30. Qg8+ Nxg8 31. Bxh8 Ne7 32. c4 Ng8 33. Bg7 Nh6 34. Bd4 Qxa3 35. Rb1 Qd6 36. Rc1 Ke7 37. Nf8 Kf7 38. Ba7 Qb4+ 39. Kd1 Bg4 40. Bg2 Kg8 41. c5 Nf7 42. Rc4 Nh8 43. Re4 Bd7 44. Rxb4 Nf7 45. Rc4 Be8 46. Rc2 Nd6 47. Rc3 Rb6 48. Bf3 Rb8 49. Be4 Rb7 50. Rh2 Bd7 51. Rb3 Be8 52. Bf3 a3 53. Nxg6 Rg7 54. Nf8 Re7 55. Rb1 Bd7 56. Nh7 Re5 57. e3 Nf7 58. Bxc6 Nh8 59. Bb8 Re4 60. Bc7 Rg4 61. Ke2 Nf7 62. Nf8 Rg3 63. Nh7 Nh8 64. Rf1 Rxe3+ 65. fxe3 Nf7 66. Ba5 Kxh7 67. Rg1 Be8 68. Rgh1 Bd7 69. Re1 Nh8 70. Rg1 Bg4+ 71. Rxg4 Kh6 72. Bb4 a2 73. Kf2 Nf7 74. Kg2 Nh8 75. Rg3 Kh5 76. Bd7 Kh6 77. Kf1 Kh7 78. Kg1 a1=B 79. e4 Nf7 80. Bg4 Ne5 81. d4 Ng6 82. Kh1 Nf4 83. h5 Ne6 84. Ra2 Kg7 85. Rf3 Ng5 86. Kg1 Nh7 87. Kh1 Nf6 88. Ra4 Nxg4 89. Rg3 Kh8 90. Kg1 Kg8 91. Kh1 Bc3 92. Re3 Kf8 93. Rh3 Ne5 94. h6 Nc6 95. Rh4 Bd2 96. Kg1 Kf7 97. Rh3 Nd8 98. Ra1 Ke6 99. Bc3 Nf7 100. Rb1 Ng5 101. Rd3 Be1 102. Re3 Bg3 103. Re2 Be1 104. Rd2 Kd7 105. Ra1 Bh4 106. Rh2 Nxe4 107. Be1 Ng5 108. Rb1 b4 109. Re2 Bf2+ 110. Bxf2 Kc7 111. Kh1 Ne4 112. Be3 Kb8 113. d5 Kc7 114. Bf2 Nxc5 115. Re4 Ne6 116. Be1 Nc5 117. h7 Ne6 118. Rxe6 Kd7 119. Re7+ Kxe7 120. Rc1 Kd7 121. Rd1 Ke8 122. Kg2 Kf7 123. Kg1 Ke8 124. h8=Q+ Kf7 125. Qg8+ Kxg8 126. d6 b3 127. Bd2 Kh7 128. Bf4 Kh8 129. Bg5 b2 130. d7 Kg8 131. Rd3 b1=R+ 132. Kg2 Rb5 133. d8=B Rb3 134. Kh2 Kf8 135. Ba5 Rc3 136. Bxc3 Kg8 137. Kg2 Kf8 138. Rh3 Kg8 139. Bh4 Kf8 140. Bd2 Kg8 141. Ba5 Kh8 142. Kf1 Kg8 143. Bg5 Kf8 144. Kg1 Kf7 145. Rf3+ Ke6 146. Be3 Kd7 147. Kh1 Ke7 148. Bed2 Kd7 149. Rf4 Ke7 150. Bb6 Ke8 151. Rf7 Kxf7 1/2-1/2
+

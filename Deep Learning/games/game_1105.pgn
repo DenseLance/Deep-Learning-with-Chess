@@ -1,0 +1,10 @@
+[Event "Solving Chess Using Deep Q-Learning"]
+[Site "Python"]
+[Date "2022-02-10"]
+[Round "1105"]
+[White "Magnum Carlos"]
+[Black "Magnesium Cars"]
+[Result "1/2-1/2"]
+
+1. Nc3 e5 2. a3 Bc5 3. d4 e4 4. d5 b6 5. Nh3 Bb7 6. Qd4 Nc6 7. Rb1 e3 8. Qe5+ Nce7 9. Qf4 f5 10. Ne4 Ng6 11. Nc3 Ba6 12. Ne4 Nh4 13. c3 Nf3+ 14. exf3 c6 15. Nhg5 d6 16. a4 Ne7 17. Ng3 Qc7 18. Qxe3 O-O 19. N3e4 h5 20. h4 Ng6 21. Qd2 fxe4 22. g4 Qb7 23. b3 Ne7 24. Qc2 b5 25. Kd2 Ng6 26. Rg1 Ne7 27. dxc6 Rf5 28. Ra1 Rf7 29. Ke1 Ng6 30. Nh7 Rb8 31. gxh5 Ne5 32. Be3 Rff8 33. Nxf8 Bb4 34. a5 Ng6 35. Qb2 Nxf8 36. Rb1 Nh7 37. Bb6 d5 38. h6 Ra8 39. Rc1 Nf8 40. Bc7 Nh7 41. Rd1 Nf8 42. Rh1 d4 43. Qa2 Nh7 44. Qa1 Nf8 45. Rd2 Nh7 46. Rb2 Ba3 47. Rd2 b4 48. Bxa6 Qc8 49. cxd4 Qxc7 50. Qb1 Qb7 51. Qc1 Nf8 52. d5 Nh7 53. d6 Qb8 54. Bb7 Nf8 55. Qd1 Nh7 56. Kf1 Qf8 57. Qe1 Nf6 58. a6 Nh7 59. Qd1 Nf6 60. Qe1 Nd7 61. Qd1 Qxf3 62. Qe1 Qh3+ 63. Kg1 Nf8 64. Qd1 Rd8 65. Qf3 Nh7 66. Bc8 Kh8 67. Qf5 Nf8 68. Qf3 Qg2+ 69. Kxg2 Nh7 70. Rg1 gxh6 71. Rd4 Nf8 72. Kh3 exf3 73. Ra1 Nh7 74. Re4 Kg8 75. Rh1 Nf8 76. Bg4 Kh8 77. Rxb4 Bxb4 78. Rd1 Bd2 79. Kg3 Ba5 80. Be6 Be1 81. Rd5 Nh7 82. Kh3 Rg8 83. Kh2 Nf8 84. Rh5 Nh7 85. Kh3 Rg1 86. Kh2 Bxf2 87. Bc8 Rc1 88. Kh3 Be1 89. Bf5 Rc2 90. b4 Rxc6 91. Bg4 Nf8 92. Ra5 Rc1 93. Bf5 Bxh4 94. Bc8 Rf1 95. Ra3 Rh1+ 96. Kg4 Rb1 97. b5 Nh7 98. Rd3 Kg8 99. Re3 Rb3 100. Re7 Be1 101. Kf4 Bg3+ 102. Kg4 h5+ 103. Kxg3 Rb1 104. Kh4 Nf8 105. Kxh5 Rf1 106. Bd7 Rd1 107. Kg5 Rd2 108. b6 Rxd6 109. b7 Kh8 110. Kf5 Ne6 111. Ke5 Nf8 112. Kf5 Nh7 113. b8=B Rc6 114. Bc7 Rh6 115. Bd8 Rh4 116. Ke6 f2 117. Rxh7+ Rxh7 118. Bc8 f1=B 119. Bb7 Rxb7 120. Kf6 Rb5 121. Kg6 Rc5 122. Kh6 Rc7 123. Kh5 Kh7 124. Bf6 Rf7 125. Kg5 Rg7+ 126. Kh5 Bh3 127. Bc3 Rf7 128. Ba1 Rb7 129. Kg5 Rc7 130. Kh5 Rd7 131. Kg5 Rc7 132. Kh5 Rc4 133. Bg7 Rb4 134. Kg5 Rh4 135. Bb2 Bf5 136. Kxf5 Kh6 137. Be5 Rh1 138. Ba1 Rg1 139. Ke4 Rb1 140. Kf4 Rb8 141. Bg7+ Kxg7 142. Kg4 Kh8 143. Kf4 Rc8 144. Ke5 Kg8 145. Kd6 Kg7 146. Ke6 Rc2 147. Kd6 Rd2+ 148. Ke6 Re2+ 149. Kd6 Rf2 150. Ke6 Rf1 151. Ke7 Kg6 152. Kd8 Rf8+ 153. Kd7 Rg8 154. Kc7 Kg5 155. Kd6 Kh5 156. Ke6 Rg1 157. Kd6 Rh1 158. Ke6 Rg1 159. Kd6 Rh1 160. Kc5 Rg1 1/2-1/2
+

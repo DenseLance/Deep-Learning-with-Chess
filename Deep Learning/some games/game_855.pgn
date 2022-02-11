@@ -1,0 +1,10 @@
+[Event "Solving Chess Using Deep Q-Learning"]
+[Site "Python"]
+[Date "2022-02-09"]
+[Round "855"]
+[White "Magnum Carlos"]
+[Black "Magnesium Cars"]
+[Result "1/2-1/2"]
+
+1. Nc3 e5 2. h4 c5 3. a3 Nc6 4. Nh3 Nf6 5. Nf4 e4 6. Nxe4 d6 7. d4 Be6 8. Ra2 Kd7 9. Nxf6+ Ke7 10. g3 Qe8 11. Bd2 Nb4 12. N6d5+ Bxd5 13. Rh2 b5 14. Nh5 Rb8 15. Nxg7 Ra8 16. Bg2 Nc6 17. Be3 Ne5 18. Nxe8 Rd8 19. Bh3 b4 20. Ng7 Rb8 21. Ne8 Ng6 22. Ng7 Bb3 23. Bd7 Rg8 24. dxc5 Be6 25. b3 f5 26. Nh5 Ne5 27. Nf6 Ra8 28. Qd2 Kf7 29. Ng4 Rc8 30. Ba4 Bd5 31. Qd3 Rb8 32. Nxe5+ Kg7 33. g4 Bg2 34. Kd1 Be4 35. Rh3 f4 36. Bd2 Rb5 37. Ng6 Rb6 38. Re3 Bb7 39. Ne7 f3 40. Nxg8 Rc6 41. Qxd6 Ra6 42. Ne7 Ba8 43. Re6 h5 44. e3 Kh8 45. g5 Bd5 46. Ng8 Bc6 47. Ne7 Bxa4 48. Qd7 Kg7 49. Kc1 Rd6 50. Qd8 Rxe6 51. Nf5+ Kh7 52. Nh6 Rf6 53. Qd7+ Kh8 54. Nf7+ Kg7 55. Nh8+ Bxd7 56. Kd1 Rg6 57. Ke1 Rf6 58. Kf1 Rg6 59. a4 Rf6 60. Rb2 Rc6 61. Nf7 Kg8 62. Nh8 Rd6 63. Ra2 Rxd2 64. Nf7 Kh7 65. Kg1 Kg6 66. Nd8 Bc6 67. e4 Bxa4 68. Nb7 Re2 69. Rxa4 Kf7 70. Nd8+ Ke7 71. Kh2 Kd7 72. Nf7 Ke8 73. Kh1 Rxf2 74. Nh8 Re2 75. Nf7 Re3 76. Ne5 Rd3 77. Kg1 Kd8 78. Ra6 Rc3 79. g6 Rd3 80. Nc4 Bd6 81. Na3 Kd7 82. Nc4 Re3 83. Ra1 Be7 84. Kf1 Kc8 85. Na5 Bd6 86. Nb7 Rd3 87. Nd8 Be7 88. Nb7 Bf6 89. Ra6 Re3 90. Rd6 Rxb3 91. Nd8 Rc3 92. e5 Bxd8 93. Kg1 Re3 94. Rd1 Rd3 95. Rd2 Bg5 96. Rg2 Re3 97. Rh2 Re2 98. Kf1 Be7 99. Kg1 Rg2+ 100. Kh1 Rd2 101. c4 Bf8 102. Kg1 Rg2+ 103. Kf1 Bg7 104. e6 Re2 105. Kg1 Re1+ 106. Kf2 Rf1+ 107. Kxf1 Kd8 108. Rb2 a5 109. Kg1 Bf6 110. c6 Be5 111. Kf1 f2 112. Kxf2 a4 113. Rd2+ Ke8 114. Re2 b3 115. Rc2 Bg3+ 116. Kg1 bxc2 117. e7 Be5 118. Kh1 c1=N 119. c5 Nb3 120. Kg1 Ba1 121. Kf2 Be5 122. Kg1 Nd4 123. Kf1 Nxc6 124. Kg2 Bf6 125. g7 Nxe7 126. Kh2 Kd8 127. Kg2 Bb2 128. g8=B Nxg8 129. Kh2 Bc3 130. Kg2 Be5 131. Kh3 Kc8 132. c6 Ne7 133. Kg2 Kb8 134. Kh1 Kc8 135. c7 Bxc7 136. Kg1 Ng8 137. Kh1 Ne7 138. Kg1 Ng6 139. Kf2 a3 140. Ke1 Bb6 141. Kf1 Bd4 142. Ke1 Kd8 143. Kf1 Ba1 144. Kg1 Ne7 145. Kf1 Bd4 146. Kg2 a2 147. Kg3 Bc5 148. Kh3 Kd7 149. Kg3 Ng8 150. Kh3 Ne7 151. Kg3 Ng8 152. Kh3 1/2-1/2
+

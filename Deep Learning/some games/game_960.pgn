@@ -1,0 +1,10 @@
+[Event "Solving Chess Using Deep Q-Learning"]
+[Site "Python"]
+[Date "2022-02-09"]
+[Round "960"]
+[White "Magnum Carlos"]
+[Black "Magnesium Cars"]
+[Result "1/2-1/2"]
+
+1. e3 c6 2. b3 Na6 3. Nc3 Qb6 4. Nge2 Nc7 5. g4 Qc5 6. Ng3 Ne6 7. Nge2 Qxe3 8. h4 Nf6 9. Rg1 Qe5 10. Na4 Ng5 11. Nc5 Ne6 12. Nxe6 Qh2 13. Rg3 Qh1 14. Nc7+ Kd8 15. a3 d5 16. Bb2 Nh5 17. Ng1 Nf6 18. f3 Ng8 19. Bf6 Bxg4 20. Bd3 Nh6 21. Ne6+ Kc8 22. Nxg7 Nf5 23. Be2 Nh6 24. Bf1 Nf5 25. a4 e5 26. Qc1 Bd6 27. Qb1 Nh6 28. Bh3 Be7 29. Ne8 Bxh3 30. Ng7 Rd8 31. f4 Ng4 32. Ne6 Bxf6 33. Ng7 exf4 34. Qc1 Bf1 35. Rxg4 Qxg1 36. Ne8 Bb2 37. Qd1 f3 38. Rg7 Qh1 39. Rg4 b5 40. Rg2 Rd6 41. Ng7 Bc1 42. Ne8 Kb8 43. Rg6 Rd8 44. d4 Qg2 45. b4 f5 46. Rd6 Qh1 47. Ng7 Rf8 48. Qd3 f4 49. Qb3 Qg1 50. Ne8 Qh1 51. Ng7 c5 52. Ne8 Qg1 53. Qa3 Kc8 54. Rf6 Qg2 55. Rxf4 Qh2 56. Rf5 f2+ 57. Rxf2 Qg1 58. c3 Qg4 59. Nc7 Qxh4 60. Qb2 Bg5 61. Qc1 Qh5 62. Ra3 c4 63. Qxg5 Qxg5 64. Nxb5 Kb7 65. Rc2 Kb8 66. Ra1 Qg8 67. Ra3 Kb7 68. Rca2 Bd3 69. Ra1 a6 70. Rd1 Be2 71. Nd6+ Kb6 72. Rb3 a5 73. Kxe2 Kc6 74. Rh1 Rf5 75. Rh6 Rf3 76. Nb5+ Rf6 77. Rxh7 Qg6 78. Rh3 Kb6 79. Rh4 Qe4+ 80. Kd2 Qe7 81. Rh3 Rd6 82. Kc1 Qf6 83. Nc7 Rc6 84. Rh6 Qh4 85. Rxh4 Kb7 86. Ne8 Rd6 87. Nc7 Rd7 88. Rg4 Kc6 89. Ne8 Re7 90. Ng7 Kd6 91. Rh4 Rb8 92. Ne8+ Ke6 93. Rh6+ Kf5 94. Ng7+ Kf4 95. Ne8 Rxb4 96. Kd1 Rb6 97. Kc1 Re4 98. Ng7 Rxh6 99. Ne8 Re7 100. Kb1 cxb3 101. Ng7 Rh4 102. Ne8 Re3 103. c4 Rh1+ 104. Kb2 Rc1 105. Ng7 Re7 106. c5 Rd7 107. Ne6+ Kg3 108. Kxc1 Rd8 109. Nxd8 Kf2 110. Nf7 Kg2 111. Nh8 Kh2 112. Ng6 Kh3 113. Kd2 b2 114. Ke1 Kh2 115. Nh4 b1=B 116. Nf5 Bd3 117. Ne3 Kh3 118. Kf2 Ba6 119. Kg1 Kg3 120. Kh1 Kf4 121. Nxd5+ Kf5 122. Nc3 Bb5 123. Nd1 Be2 124. Kg1 Bxd1 125. d5 Kg6 126. Kh1 Kg5 127. d6 Kf5 128. Kg1 Ke6 129. Kh1 Be2 130. d7 Ke7 131. Kg2 Kf8 132. Kh1 Bf1 133. d8=B Be2 134. Kg1 Kg8 135. Kh2 Kg7 136. Kg2 Kh8 137. Kh2 Kg8 138. Kh1 Bf3+ 139. Kg1 Bd1 140. Kh1 Kh8 141. Kh2 Kg7 142. Kg1 Bg4 143. Be7 Kg6 144. Kh1 Bh3 145. Kh2 Kh6 146. Kxh3 Kh7 147. Bh4 Kh6 148. Kg4 Kh7 149. Bf2 Kg6 150. Kh4 Kh6 151. Bg3 Kg6 152. Be5 Kh6 153. Bh2 Kg6 154. c6 Kf6 155. c7 Kf7 156. c8=N Kg7 157. Kg5 Kh7 158. Ne7 Kg7 159. Nc8 Kh7 160. Bb8 Kg7 1/2-1/2
+

@@ -1,0 +1,10 @@
+[Event "Solving Chess Using Deep Q-Learning"]
+[Site "Python"]
+[Date "2022-02-09"]
+[Round "1685"]
+[White "Magnum Carlos"]
+[Black "Magnesium Cars"]
+[Result "1/2-1/2"]
+
+1. b4 g6 2. d3 h6 3. a3 d5 4. Nd2 a5 5. c3 Ra7 6. Nb1 Nd7 7. Nd2 Ndf6 8. c4 Nh7 9. Nb3 Nhf6 10. Nh3 Nh7 11. bxa5 h5 12. e4 Bxh3 13. Qxh5 Qd7 14. Nd4 c5 15. g3 Nhf6 16. Nf5 Bg2 17. Qh7 Qc6 18. a6 Nxh7 19. Nd6+ Qxd6 20. Bxg2 Qd7 21. Rb1 Nhf6 22. f3 Bh6 23. Ra1 Qd6 24. e5 Nh7 25. Kf1 Kf8 26. Rb1 Nhf6 27. Ra1 Bf4 28. Ra2 Nh7 29. Rb2 Bxc1 30. Rc2 Nhf6 31. Kf2 Qc6 32. Kg1 Nh7 33. h3 Nhf6 34. Kf1 Nh7 35. Kg1 Nhf6 36. Kf1 Qe8 37. Kg1 1/2-1/2
+

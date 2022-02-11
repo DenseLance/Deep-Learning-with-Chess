@@ -1,0 +1,10 @@
+[Event "Solving Chess Using Deep Q-Learning"]
+[Site "Python"]
+[Date "2022-02-10"]
+[Round "280"]
+[White "Magnum Carlos"]
+[Black "Magnesium Cars"]
+[Result "1/2-1/2"]
+
+1. c3 Nc6 2. Qc2 d5 3. g4 h5 4. Qb3 Rh6 5. a4 Rb8 6. f3 Re6 7. e3 f5 8. Ra2 Rg6 9. Qc2 Qd6 10. Bh3 Rg5 11. f4 hxg4 12. Ra3 gxh3 13. Ne2 d4 14. a5 Bd7 15. Qa4 Qxf4 16. exd4 Ne5 17. Ng3 Rc8 18. b4 Nf7 19. Bb2 Qh4 20. Ke2 Nh8 21. Kf1 c6 22. Ba1 Nh6 23. Rb3 c5 24. Bb2 N6f7 25. Ne2 Nd8 26. Ba1 Ndf7 27. Nf4 Ng6 28. Nxh3 Qg3 29. d5 Qg1+ 30. Rxg1 cxb4 31. Nf2 Rc6 32. Ra3 Nge5 33. d6 Nc4 34. Qb5 Nb2 35. d3 e6 36. Ra2 Be7 37. Qa4 Rxc3 38. Rg4 Kf8 39. Rxg5 Rb3 40. Qxb3 Nc4 41. dxc4 b5 42. Rg6 Ne5 43. Qc2 f4 44. Rg4 Bc8 45. Rg5 Ba6 46. Nd2 Bxg5 47. Kg2 Kf7 48. Qc1 Ke8 49. Qd1 Bh4 50. Qa4 Nd3 51. Nf3 Kf7 52. Nh3 b3 53. Qxb3 Ne1+ 54. Kh1 Nd3 55. Qa4 b4 56. Nhg1 Kg8 57. Rb2 Kh7 58. Rc2 Be1 59. Ne2 Kg6 60. h3 Kf7 61. Nfg1 Nf2+ 62. Kh2 Bxc4 63. Qa2 Ne4 64. d7 Bg3+ 65. Kh1 Bb3 66. Be5 g5 67. d8=B Nf6 68. Bdc7 Ng8 69. Bg7 Ba4 70. Rc3 Be8 71. Rc4 Ba4 72. Nd4 Kxg7 73. a6 Ne7 74. Rc3 Nd5 75. Qc2 Nb6 76. Qg6+ Kxg6 77. Bd8 Nd7 78. Rb3 Nc5 79. Nc6 Bb5 80. Bc7 Be1 81. Rd3 Bf2 82. Nxb4 Be1 83. Rd5 Bxb4 84. Bxf4 Bd3 85. Rd6 Nxa6 86. Bc1 Be4+ 87. Kh2 Bb1 88. Rd3 Bc3 89. Bb2 Bd4 90. Ne2 Nb8 91. Re3 Nd7 92. Rb3 Be4 93. Ng3 Be5 94. Bd4 Bg7 95. Be5 Nf6 96. Nxe4 Kh7 97. Nxg5+ Kh8 98. Rg3 Kg8 99. Ra3 Ne8 100. Ra2 Bf6 101. Nf3 Nd6 102. h4 Ne4 103. Ra4 Nf2 104. Bd6 Kg7 105. Kg1 Bxh4 106. Ra1 Kg8 107. Rxa7 Nd1 108. Kh2 Nf2 109. Be5 Kf8 110. Ng1 Ne4 111. Ne2 Bf6 112. Nc3 Ng5 113. Nb5 Bh8 114. Nd6 Ne4 115. Ra5 Nxd6 116. Bxd6+ Kg8 117. Kg2 Be5 118. Ra3 Bxd6 119. Rc3 e5 120. Rb3 e4 121. Rb2 Be7 122. Kf2 Kg7 123. Rd2 Bh4+ 124. Ke3 Bg5+ 125. Kf2 Bxd2 126. Kg2 Kg8 127. Kh1 e3 128. Kg2 Kh7 129. Kh2 Kh8 130. Kh1 Ba5 131. Kh2 Be1 132. Kh1 e2 133. Kh2 Ba5 134. Kh3 Bd8 135. Kg3 Ba5 136. Kf4 e1=Q 137. Kf5 Qh1 138. Kf4 Qh3 139. Ke5 Qf5+ 140. Kd4 Qc5+ 141. Ke4 Bc3 142. Kf4 Qa5 143. Ke4 Bb4 144. Kf3 Qd8 145. Ke2 Kg7 146. Kf3 Qd5+ 147. Ke2 Qe5+ 148. Kd3 Qf5+ 149. Ke3 Be1 150. Kd4 Ba5 151. Ke3 Qf3+ 152. Kxf3 1/2-1/2
+

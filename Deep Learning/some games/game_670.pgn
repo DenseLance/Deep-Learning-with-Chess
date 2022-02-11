@@ -1,0 +1,10 @@
+[Event "Solving Chess Using Deep Q-Learning"]
+[Site "Python"]
+[Date "2022-02-09"]
+[Round "670"]
+[White "Magnum Carlos"]
+[Black "Magnesium Cars"]
+[Result "1/2-1/2"]
+
+1. b3 Nc6 2. Nh3 h6 3. Nc3 Nb4 4. e3 Nc6 5. Nb5 a6 6. g3 Ne5 7. Ng5 g6 8. Nd6+ exd6 9. Bg2 d5 10. Ne6 g5 11. Ng7+ Ke7 12. a4 Ng6 13. a5 g4 14. Nf5+ Kf6 15. Bb2+ Ke6 16. Bc3 b6 17. Nxh6 Be7 18. Ra3 Bd6 19. Nxf7 N6e7 20. Bf6 Qf8 21. Nxh8 Nc6 22. f3 Bb7 23. fxg4 Nce7 24. Nf7 Kxf6 25. Qc1 Rc8 26. Kf2 Ke6 27. Kf3 d4+ 28. Ke2 Ng6 29. Re1 N6e7 30. Rd1 Ba8 31. Ne5 Ng6 32. Nxg6 Qh6 33. c3 Bxa3 34. Ne7 Kf6 35. g5+ Kg7 36. h4 Bb4 37. Bh1 d5 38. Kf3 Nxe7 39. Qa1 Rh8 40. Re1 Qf6+ 41. Kg4 Ng8 42. Qb1 Ne7 43. Bxd5 Qf5+ 44. Qxf5 Bd6 45. Qc8 Bb4 46. Rf1 c5 47. Rg1 Ng8 48. Bb7 d3 49. Kf3 Ba3 50. Qf8+ Kg6 51. Qf5+ Kg7 52. Rb1 Rh6 53. Rd1 Ne7 54. Ra1 Rh7 55. Kg2 Ng8 56. Re1 Rh5 57. c4 Bb2 58. Qe6 Ne7 59. Rf1 Bc3 60. g6 Ng8 61. Qxg8+ Kxg8 62. Rg1 Bxd2 63. Bd5+ Kh8 64. axb6 Ba5 65. Kh2 Be1 66. Be6 Bxg3+ 67. Kxg3 d2 68. Kh3 Rd5 69. b4 d1=N 70. Rh1 Nf2+ 71. Kg3 Bb7 72. Rh3 Nd1 73. e4 Rd8 74. Bg4 Nf2 75. Bf5 Nxh3 76. Kxh3 Ra8 77. Bg4 Bxe4 78. Kh2 Bd5 79. Bd7 a5 80. Be8 a4 81. bxc5 Rd8 82. Bc6 a3 83. Be8 Bf3 84. Kg3 Ba8 85. Kh3 a2 86. c6 a1=B 87. c7 Be4 88. c8=N Bb2 89. Na7 Bc2 90. Bd7 Kg7 91. Nb5 Be5 92. Nd6 Bxg6 93. Bc8 Kh7 94. Kg4 Rh8 95. Ba6 Kg7 96. Nb7 Bc2 97. Nd6 Kh7 98. Nf7 Kg7 99. Kf3 Bc3 100. Nxh8 Bf6 101. Ng6 Bf5 102. Ne7 Bg6 103. Ng8 Bd3 104. Ke3 Bb1 105. b7 Bc3 106. c5 Ba1 107. b8=Q Be4 108. Qe8 Kh7 109. Nh6 Kg7 110. Be2 Kxh6 111. Bf1 Bg2 112. Kd3 Bc6 113. Qg6+ Kxg6 114. Ke3 Ba8 115. Bh3 Bc6 116. Bg2 Be8 117. Bf3 Kh6 118. Bc6 Be5 119. Ba8 Kg6 120. Ke4 Kh7 121. Kf5 Kg7 122. c6 Bf4 123. h5 Bxh5 124. Ke6 Bd2 125. c7 Kh7 126. Be4+ Kh8 127. Kd7 Kg8 128. Bh1 Bg6 129. Ke7 Ba5 130. c8=B Be4 131. Kd6 Bd3 132. Be6+ Kh8 133. Ba2 Be4 134. Bc4 Bb7 135. Bcd5 Kh7 136. Bg8+ Kxg8 137. Bxb7 Be1 138. Kc5 Kh8 139. Be4 Kg8 140. Bg6 Kh8 141. Bb1 Bh4 142. Kd6 Bg5 143. Kd7 Kg8 144. Kc7 Kf7 145. Bh7 Kg7 146. Kd7 Bh6 147. Kd6 Bc1 148. Kd5 Kh6 149. Bf5 Bf4 150. Bg6 Bd6 151. Kxd6 1/2-1/2
+
